@@ -6,7 +6,7 @@ public class findEven {
          * You need to find all the unique integers that follow the given requirements:
          * The integer consists of the concatenation of three elements from digits in any arbitrary order.
          * The integer does not have leading zeros.
-         * The integer is even.
+         * The integer is even
          * For example, if the given digits were [1, 2, 3], integers 132 and 312 follow the requirements.
          * Return a sorted array of the unique integers
          */
